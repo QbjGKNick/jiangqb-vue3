@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/reactivity.cjs.js",
   "module": "dist/reactivity.esm-bundler.js",
-  "buildOptions": {
-    "name": "VueReactivity"
+  "dependencies": {
+    "@jiangqb-vue3/shared": "workspace:^1.0.0"
   }
 }
